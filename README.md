@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Chamara!
 
-Full-stack developer passionate about building beautiful, functional applications with modern technologies. Welcome to my portfolio!
+Full-stack developer passionate about building scalable sustainable and functional applications with modern technologies.
 
 ---
 
