@@ -23,7 +23,7 @@ Currently, I'm focused on:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-00B4AB?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
