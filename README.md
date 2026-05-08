@@ -51,27 +51,6 @@ Currently, I'm focused on:
 
 </div>
 
----
-
-## 🎯 Featured Projects
-
-### [Portfolio Website](https://github.com/Chamara383/portfolio)
-A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS. Features dark mode support, smooth animations, and a clean design.
-
-**Tech Stack:** React • TypeScript • Tailwind CSS • Vite
-
-### [Project 2](link-to-repo)
-Brief description of your project...
-
-**Tech Stack:** Technologies used
-
-### [Project 3](link-to-repo)
-Brief description of your project...
-
-**Tech Stack:** Technologies used
-
----
-
 ## 💼 Let's Connect
 
 I'm always interested in discussing new projects, opportunities, and collaborations. Feel free to reach out!
