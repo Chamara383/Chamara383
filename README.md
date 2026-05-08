@@ -7,13 +7,6 @@ Full-stack developer passionate about building scalable sustainable and function
 ## 🚀 About Me
 
 I'm a software developer with expertise in **full-stack development**, specializing in creating seamless user experiences with clean, maintainable code. I love working with React, TypeScript, and modern web technologies to solve real-world problems.
-
-Currently, I'm focused on:
-- 🔨 Building responsive web applications
-- 📚 Expanding my knowledge in cloud technologies
-- 🎨 Crafting intuitive user interfaces
-- 💡 Contributing to open-source projects
-
 ---
 
 ## 🛠 Tech Stack
