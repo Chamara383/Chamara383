@@ -67,17 +67,6 @@ I'm always interested in discussing new projects, opportunities, and collaborati
 
 ## 📈 Currently Learning
 
-- Advanced React patterns and state management
-- Cloud deployment and DevOps
-- Web performance optimization
-- GraphQL & APIs
-
+- Devops 
+- Machine Learning
 ---
-
-<div align="center">
-
-⭐ If you found this interesting, feel free to star this repo!
-
-Made with ❤️ by Chamara
-
-</div>
